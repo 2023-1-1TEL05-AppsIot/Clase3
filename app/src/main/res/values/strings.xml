@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Clase3</string>
+    <string name="teleco">teleco</string>
+    <string-array name="nombres_telecos">
+        <item>Jex</item>
+        <item>Nuirka</item>
+        <item>Carlos</item>
+        <item>Yujun</item>
+    </string-array>
+</resources>
